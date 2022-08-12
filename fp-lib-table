@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "OxySwitch")(type "KiCad")(uri "${KIPRJMOD}/Libraries/OxySwitch.pretty")(options "")(descr ""))
+)
