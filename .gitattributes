@@ -1,0 +1,15 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Kicad specific files
+*.pro text eol=lf filter=kicad_project
+*.kicad_pro text eol=lf filter=kicad_project
+*.sch text eol=lf filter=kicad_sch
+*.kicad_sch text eol=lf filter=kicad_sch
+*.kicad_pcb text eol=lf
+*-lib-table text eol=lf
+*.kicad_wks text eol=lf
+*kicad_sym text eol=lf
+*.bak text eol=lf
+*.kicad_mod text eol=lf
+*.ioc text eol=lf
