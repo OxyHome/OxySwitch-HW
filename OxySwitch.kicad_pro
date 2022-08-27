@@ -432,6 +432,10 @@
     [
       "0168acc7-4fa4-4165-b008-de8faacbdcdc",
       "RF"
+    ],
+    [
+      "0e6e95a1-de17-47b1-9a9f-ed0cdb0b8e8a",
+      "Zero crossing detection"
     ]
   ],
   "text_variables": {}
