@@ -742,6 +742,18 @@
     )
   )
 
+  (sheet (at 88.9 69.85) (size 25.4 36.195) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid c48e78ef-f08a-426b-a4a4-dff90ce1874e)
+    (property "Sheet name" "Switcher" (id 0) (at 88.9 69.1384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "switcher.kicad_sch" (id 1) (at 88.9 106.6296 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 133.35 53.34) (size 31.75 73.66) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -780,6 +792,7 @@
     (path "/13cf60ac-65e2-4c08-a52d-012b34ab8e81" (page "3"))
     (path "/13cf60ac-65e2-4c08-a52d-012b34ab8e81/328173b0-1baf-4f2c-ac09-4ab7a43064f8" (page "4"))
     (path "/0168acc7-4fa4-4165-b008-de8faacbdcdc" (page "5"))
+    (path "/c48e78ef-f08a-426b-a4a4-dff90ce1874e" (page "7"))
     (path "/0e6e95a1-de17-47b1-9a9f-ed0cdb0b8e8a" (page "7"))
   )
 

@@ -824,8 +824,8 @@
     )
   )
 
-  (bus_alias "VDD" (members "VDDA" "VDDRF" "VDDUSB" "VDDSMPS" "VDD1" "VDD2" "VDD3"))
   (bus_alias "SWD" (members "SWDIO" "SWCLCK"))
+  (bus_alias "VDD" (members "VDDA" "VDDRF" "VDDUSB" "VDDSMPS" "VDD1" "VDD2" "VDD3"))
   (junction (at 36.83 177.8) (diameter 0) (color 0 0 0 0)
     (uuid 20cad082-9934-4065-93aa-16861a0a2048)
   )

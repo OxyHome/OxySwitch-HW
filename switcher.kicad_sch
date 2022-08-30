@@ -1,0 +1,15 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 04a1323d-5489-43c2-b4d0-ecb8791a79bf)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "Main Control" (shape input) (at 63.5 63.5 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid c471e9b3-c164-4667-9810-f2f0d7aa1aa4)
+  )
+)
